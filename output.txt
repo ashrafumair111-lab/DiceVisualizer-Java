@@ -1,0 +1,19 @@
+---------------------
+DICE ROLLER PROJECT
+---------------------
+enter no of dice to be rolled:2
+ -------
+| ?     |
+|   ?   |
+|     ? |
+ -------
+
+you rolled :3
+ -------
+| ?     |
+|   ?   |
+|     ? |
+ -------
+
+you rolled :3
+total of dices are :6
