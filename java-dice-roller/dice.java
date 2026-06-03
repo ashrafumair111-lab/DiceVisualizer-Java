@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class dice{
     static Scanner scan= new Scanner(System.in);
 public static void main(String[] args) {
-
+//rolling dice
      Random rand=new Random();
      int noofdice;
      int total=0;
