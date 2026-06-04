@@ -88,7 +88,7 @@ static void printdie(int roll){
             } else if(roll==6){
                 System.out.println(dice6);
             }
-            //this is a dice roller project in java
+            
 
 }
 }
