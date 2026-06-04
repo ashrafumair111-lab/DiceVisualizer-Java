@@ -92,4 +92,4 @@ public class dice {
             System.out.println(dice6);
         }
     }
-}
+} //end of code
