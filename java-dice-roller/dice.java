@@ -88,7 +88,7 @@ static void printdie(int roll){
             } else if(roll==6){
                 System.out.println(dice6);
             }
-            
+      //this method will print the dice face according to the number rolled      
 
 }
 }
