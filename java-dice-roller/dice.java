@@ -1,6 +1,6 @@
 import java.util.Random;
 import java.util.Scanner;
-
+//this is a dice roller project in java
 public class dice{
     static Scanner scan= new Scanner(System.in);
 public static void main(String[] args) {
