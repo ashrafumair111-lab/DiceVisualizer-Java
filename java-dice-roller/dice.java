@@ -92,4 +92,5 @@ public class dice {
             System.out.println(dice6);
         }
     }
+    // This is the new code added for your branch:
 }
